@@ -1,2 +1,2 @@
-Dự án Smart City - Nền tảng quản lý
+Dự án Smart Parking - Phiên bản 1.0
 
